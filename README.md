@@ -28,10 +28,14 @@ $ hexo new post <title>
 
 在 *source/_posts* 下 就会生成新文章，修改即可，完成后提交 PR 即可。
 
+## TODO
+
+- [ ] 替换成 landscape-plus 主题，以改进国内访问?
+
 
 ## Note
 
-- [git 忽略某些行](https://stackoverflow.com/questions/16244969/how-to-tell-git-to-ignore-individual-lines-i-e-gitignore-for-specific-lines-of)
+- 忽略部署配置或者其他一些不想要上传的内容[git 忽略某些行](https://stackoverflow.com/questions/16244969/how-to-tell-git-to-ignore-individual-lines-i-e-gitignore-for-specific-lines-of)
 
 ```
 $ git config filter.gitignore.clean "sed '/# gitignore$/'d"
