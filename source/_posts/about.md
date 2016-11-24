@@ -14,7 +14,7 @@ We are the developers, business managers, college professors and students, in th
 
 - [微博](http://weibo.com/gdgsuzhou)
 - [网站](http://www.gdg-suzhou.org)
-- 微信 搜索: gdgsuzhou 或扫描下面二维码![GDG Suzhou QR Code](images/gdg-suzhou-qr-code.jpg)
+- 微信 搜索: gdgsuzhou 或扫描下面二维码![GDG Suzhou QR Code](/images/gdg-suzhou-qr-code.jpg)
 
 
 
