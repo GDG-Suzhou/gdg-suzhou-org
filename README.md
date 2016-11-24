@@ -22,7 +22,7 @@
 - [ ] 完善网站布局
 - [ ] 添加GDG Suzhou 介绍
 
-## hexo 使用须知
+## 使用 hexo 构建网站
 
 [hexo 中文官网](https://hexo.io/zh-cn/)
 
