@@ -17,8 +17,6 @@
 **欢迎随时提出任何问题**
 
 ## TODO
-
-- [ ] 替换成 landscape-plus 主题，以改进国内访问?
 - [ ] 完善网站布局
 - [ ] 添加 GDG Suzhou 介绍
 - [ ] 添加 GDG Suzhou 历史页面介绍，将之前做出过贡献的人员列出来
@@ -28,7 +26,8 @@
 [hexo 中文官网](https://hexo.io/zh-cn/)
 
 ```
-# install hexo
+# install hexo （可能需要 root 权限）
+$ npm install hexo -g
 $ npm install hexo-cli -g
 
 # fork && clone code
