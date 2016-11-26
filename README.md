@@ -16,31 +16,26 @@
 
 **欢迎随时提出任何问题**
 
-## TODO
+## 欢迎完善问题
 
-- [ ] 默认显示 about 页面
-- [ ] 替换成 landscape-plus 主题，以改进国内访问?
-- [ ] 完善网站布局
-- [ ] 添加 GDG Suzhou 介绍
-- [ ] 添加 GDG Suzhou 历史页面介绍，将之前做出过贡献的人员列出来
-- [ ] 添加活动组织介绍页面（介绍如何参与活动组织）
-- [ ] 添加本地其他社区的链接
-- [x] 添加 Fork me in github 图标
+*[代办事项](TODO.md)*
 
 ## 使用 hexo 构建网站
 
 [hexo 中文官网](https://hexo.io/zh-cn/)
 
 ```
-# install hexo
+# 安装 hexo
 $ npm install hexo-cli -g
 
-# fork && clone code
+# 下载代码
 $ git clone https://github.com/GDG-Suzhou/gdg-suzhou-org
-$ cd
+$ cd gdg-suzhou-org
 
-# start
-$ hexo serve
+# 生成静态文件
+$ hexo g
+# 启动本地服务
+$ hexo s
 ```
 
 打开 http://localhost:4000 即可预览到网站啦
