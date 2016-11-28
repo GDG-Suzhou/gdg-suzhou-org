@@ -26,8 +26,7 @@
 [hexo 中文官网](https://hexo.io/zh-cn/)
 
 ```
-# install hexo （可能需要 root 权限）
-$ npm install hexo -g
+# install hexo
 $ npm install hexo-cli -g
 
 # fork && clone code
