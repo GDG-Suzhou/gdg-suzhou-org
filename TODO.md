@@ -4,11 +4,11 @@
 ## 网站相关
 
 - [ ] 默认显示 about 页面
-- [ ] 替换成 landscape-plus 主题，以改进国内访问?
+- [x] 替换成 landscape-plus 主题，以改进国内访问
 - [ ] 完善网站布局
 - [x] 添加 GDG Suzhou 介绍
 - [ ] 添加本地其他社区的链接
-- [x] 添加 Fork me in github 图标
+- [x] 添加 Fork me on github 图标
 
 
 ## 内容相关
